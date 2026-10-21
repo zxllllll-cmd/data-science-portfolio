@@ -15,11 +15,13 @@ Python · pandas · seaborn · matplotlib · Jupyter Notebook · Git & GitHub Pa
 **Research Question:** What factors influence restaurant tip amounts?
 
 **Visualization 1: Average Total Bill by Day**
+
 ![Bill by Day](https://raw.githubusercontent.com/zxllllll-cmd/data-science-project/main/bill_by_day.png)
 
 *The bar chart shows weekend diners consistently spend more on average.*
 
 **Visualization 2: Tip vs Total Bill (Smoker vs Non-smoker)**
+
 ![Tip Scatter](https://raw.githubusercontent.com/zxllllll-cmd/data-science-project/main/tip_scatter.png)
 
 *The scatter plot reveals wider tip variance among smokers, suggesting behavioral differences worth deeper study.*
